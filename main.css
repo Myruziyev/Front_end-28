@@ -7,7 +7,6 @@
   list-style: none;
   color: inherit;
   text-decoration: none;
-
   font-family: "Open Sans", sans-serif;
 }
 header {
@@ -75,7 +74,7 @@ header {
   background-color: #f57520;
   width: 6px;
   height: 6px;
-  left: 1177px;
+  left: 1179px;
   top: 45px;
 }
 .circle2 {
@@ -84,7 +83,7 @@ header {
   background-color: #f57520;
   width: 6px;
   height: 6px;
-  left: 1217.5px;
+  left: 1219.5px;
   top: 45px;
 }
 .circle3 {
@@ -93,7 +92,7 @@ header {
   background-color: #f57520;
   width: 6px;
   height: 6px;
-  left: 1262px;
+  left: 1266px;
   top: 45px;
 }
 .div {
